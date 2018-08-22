@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "244d9aef-d787-4ffd-adf2-36a1f0944b2e",
+            "Value": {
+                "id": "0d422afc-8838-4b59-8943-48566f31102f",
+                "resourcePath": "notes\\Todo_Gang.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "25652941-8c3e-49a3-b8d5-1192577c76ac",
+            "Value": {
+                "id": "abca118b-734c-48a2-8607-8e22bafc6e29",
+                "resourcePath": "notes\\Todo_Back.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "2be92075-cb42-4d3b-9a87-6bb9677ec00b",
             "Value": {
                 "id": "94adff56-5b7b-42e5-bea9-66a097565590",
