@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "8386a4da-7972-4cbd-911b-064c7803478d",
+            "Value": {
+                "id": "5e9bf67e-e371-42ef-acf0-5b7868b0bac3",
+                "resourcePath": "sprites\\spr_dong\\spr_dong.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a525c1fd-bb75-4272-9c7b-6bbef8c4c5ef",
             "Value": {
                 "id": "59e82d81-1c10-47db-98f1-cfc7dc37c35c",
