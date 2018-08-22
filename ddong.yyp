@@ -191,27 +191,11 @@
             }
         },
         {
-            "Key": "a769bef1-f3d8-4d07-bc56-ae9b1bcb736a",
-            "Value": {
-                "id": "79426301-c5f1-4a72-b21e-68e98526a91c",
-                "resourcePath": "sprites\\sprite5\\sprite5.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "91b7909b-7da5-417a-9378-dd6af3f91a3c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "bd7f6317-f992-44f6-a70c-c26e2567a1f3",
-            "Value": {
-                "id": "e2e190f5-3d33-4301-b20c-d8ad03183aec",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
